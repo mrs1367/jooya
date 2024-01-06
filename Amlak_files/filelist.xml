@@ -1,8 +1,6 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../index.html"/>
+ <o:MainFile HRef="../Amlak.htm"/>
  <o:File HRef="amlak_image001.png" PublicationID="amlak"/>
  <o:File HRef="amlak_image002.png" PublicationID="amlak"/>
- <o:File HRef="amlak_image003.png" PublicationID="amlak"/>
- <o:File HRef="amlak_image004.png" PublicationID="amlak"/>
  <o:File HRef="filelist.xml"/>
 </xml>
